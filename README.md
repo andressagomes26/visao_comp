@@ -5,3 +5,10 @@ Estudo baseado no livro "Introdução à Visão Computacional - Uma abordagem pr
 Desse modo, o Processamento Digital de Imagem consiste em realizar o processamento de imagens em imagens digitais por meio de algoritmos computacionais, enquanto a Visão Computacional é o processo que busca reproduzir as funções da visão humana, através software e hardware.
 
 Logo, o livro é dividido em quinze (15) capítulos, com exemplos práticos, que vão desde o pré-processamento de imagens até aplicações da visão computacional, por exemplo, reconhecimento e contagem de objetos. 
+
+## Instalações
+
+- OpenCV
+```bash
+$ pip install opencv-python
+```
