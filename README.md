@@ -29,5 +29,8 @@ $ pip install Pillow
 $ pip install numpy
 ```
 ```bash
+$ pip install matplotlib
+```
+```bash
 $ pip install scikit-learn
 ```
