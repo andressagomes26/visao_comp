@@ -6,9 +6,31 @@ Desse modo, o Processamento Digital de Imagem consiste em realizar o processamen
 
 Logo, o livro é dividido em quinze (15) capítulos, com exemplos práticos, que vão desde o pré-processamento de imagens até aplicações da visão computacional, por exemplo, reconhecimento e contagem de objetos. 
 
-## Instalações
-
+## Depêndencias 
+- Python 3x
+- Visual Studio Code
 - OpenCV
+- Pillow
+- NumPy
+- Matplotlib
+- Statistics
+- Scikit-Learn
+- Python-tesseract
+
+
+## Instalações
 ```bash
 $ pip install opencv-python
+```
+
+```bash
+$ pip install Pillow
+```
+
+```bash
+$ pip install numpy
+```
+
+```bash
+$ pip install scikit-learn
 ```
