@@ -34,3 +34,13 @@ $ pip install matplotlib
 ```bash
 $ pip install scikit-learn
 ```
+
+## Execução
+
+1. Baixe o Zip;
+2. Extraia o contéudo;
+3. Abrir em Visual Studio Code IDE e executar cada arquivo;
+4. Para executar pelo terminal utilizar o comando: 
+```bash
+  $ python meu-programa.py
+```
