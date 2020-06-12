@@ -22,15 +22,12 @@ Logo, o livro é dividido em quinze (15) capítulos, com exemplos práticos, que
 ```bash
 $ pip install opencv-python
 ```
-
 ```bash
 $ pip install Pillow
 ```
-
 ```bash
 $ pip install numpy
 ```
-
 ```bash
 $ pip install scikit-learn
 ```
