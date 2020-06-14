@@ -7,7 +7,7 @@ Desse modo, o Processamento Digital de Imagem consiste em realizar o processamen
 Logo, o livro é dividido em quinze (15) capítulos, com exemplos práticos, que vão desde o pré-processamento de imagens até aplicações da visão computacional, por exemplo, reconhecimento e contagem de objetos. 
 
 <p align="center">
-  <img width="55" height="45" src="https://user-images.githubusercontent.com/60404990/84607023-09674b00-ae81-11ea-92de-0006cd279b37.gif">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/60404990/84607023-09674b00-ae81-11ea-92de-0006cd279b37.gif">
 </p>
 
 
