@@ -6,6 +6,8 @@ Desse modo, o Processamento Digital de Imagem consiste em realizar o processamen
 
 Logo, o livro é dividido em quinze (15) capítulos, com exemplos práticos, que vão desde o pré-processamento de imagens até aplicações da visão computacional, por exemplo, reconhecimento e contagem de objetos. 
 
+![Uploading gif2.gif…]()
+
 ## Depêndencias 
 - Python 3x;
 - Visual Studio Code IDE;
