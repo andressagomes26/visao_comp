@@ -48,3 +48,7 @@ $ pip install scikit-learn
 ```bash
   $ python meu-programa.py
 ```
+
+## Licença
+
+- MIT
