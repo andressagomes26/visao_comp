@@ -11,7 +11,7 @@ Logo, o livro é dividido em quinze (15) capítulos, com exemplos práticos, que
 </p>
 
 ## Dependências
-- Python 3x;
+- Python 2.7;
 - Visual Studio Code IDE;
 - OpenCV;
 - Pillow;
