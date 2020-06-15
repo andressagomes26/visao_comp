@@ -10,7 +10,7 @@ Logo, o livro é dividido em quinze (15) capítulos, com exemplos práticos, que
   <img width="400" height="311" src="https://user-images.githubusercontent.com/60404990/84607023-09674b00-ae81-11ea-92de-0006cd279b37.gif">
 </p>
 
-
+## Dependências
 - Python 3x;
 - Visual Studio Code IDE;
 - OpenCV;
